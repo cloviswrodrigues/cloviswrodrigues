@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋
 
 <!--
 **cloviswrodrigues/cloviswrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Eu sou Desenvolvedor Back-End, tenho experiências com tecnologias .NET, SQLServer, PostgreSQL e MySQL e também um pouco de NodeJS. atualmente estou focado nos estudos de FrontEnd para aprimorar meus conhecimentos e assim me tornar FullStack. Ultimamente estou facinado no mundo Javascript😄 
+
