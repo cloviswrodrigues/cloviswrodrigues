@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 Eu sou Desenvolvedor Back-End, tenho experiências com tecnologias .NET, SQLServer, PostgreSQL e MySQL e também um pouco de NodeJS. atualmente estou focado nos estudos de FrontEnd para aprimorar meus conhecimentos e assim me tornar FullStack. Ultimamente estou facinado no mundo Javascript😄 
 
+##
+<div> 
+  <a href = "mailto:cloviswrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cl%C3%B3viswrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
