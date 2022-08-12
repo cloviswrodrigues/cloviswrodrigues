@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou Desenvolvedor Back-End, tenho experiências com tecnologias .NET, SQLServer, PostgreSQL e MySQL e também um pouco de NodeJS. atualmente estou focado nos estudos de FrontEnd para aprimorar meus conhecimentos e assim me tornar FullStack 😄 
+Eu sou Desenvolvedor Back-End, tenho experiências com tecnologias .NET, Django, SQLServer, PostgreSQL e MySQL e também um pouco de NodeJS. atualmente estou focado nos estudos de FrontEnd para aprimorar meus conhecimentos e assim me tornar FullStack 😄 
 
 ##
 <div> 
